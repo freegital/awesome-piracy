@@ -735,6 +735,7 @@ premium services
 - [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
 - [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
 - [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
+- [MonkeyStream](https://www.monkeystream.net) Unique design, very nice speeds, HD server with subtitles, 4K content.
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
